@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7484d5bf81ba0a84caa00e1c2301f2c8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - xSprite: {fileID: 21300000, guid: cecf6175bda13b34f803582b50e1c655, type: 3}
+  - oSprite: {fileID: 21300000, guid: b9b2e63936ec5d04b9b8b15d3f0654fc, type: 3}
+  - gameOverPanel: {instanceID: 0}
+  - gameOverText: {instanceID: 0}
+  - restartButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

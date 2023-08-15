@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/SetGame.unity
+    guid: d2047f160675cd34fa58067a7a18944f
+  - enabled: 0
+    path: Assets/Scenes/Settings.unity
+    guid: ac642ea01fa424b4a867a8b442c8429d
+  - enabled: 1
+    path: Assets/Scenes/SinglePlay.unity
+    guid: 96e53c289099d834fad20467b933e068
+  - enabled: 1
+    path: Assets/Scenes/MultiPlay.unity
+    guid: 22cc80d37d62afd4c888a80fbdbbdf5a
+  - enabled: 1
+    path: Assets/Scenes/vsAIPlay.unity
+    guid: b7b21d27672190b4c90d3c17e1a7e56c
+  m_configObjects: {}
